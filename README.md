@@ -1,2 +1,1 @@
-# threejs-earth
-threejs-earth
+# THREE.js Earth scene
